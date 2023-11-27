@@ -55,7 +55,9 @@ $ ./example_sintel.sh
 
 One can see the result of running this estimation process across an entire Sintel scene below:
 
-![](alley_2.gif)
+
+
+![Alley 2](alley_2.gif)
 
 Outputs from all resolution levels will be saved in the /output_data directory.
 
