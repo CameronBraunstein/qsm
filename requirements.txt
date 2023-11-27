@@ -1,0 +1,13 @@
+dimod==0.12.12
+gurobipy==10.0.3
+imageio==2.31.6
+itypes==1.2.0
+matplotlib==3.8.0
+minorminer==0.2.12
+networkx==2.8.8
+numpy==1.26.1
+Pillow==10.0.1
+scipy==1.11.3
+scikit-image==0.22.0
+dwave-ocean-sdk==6.6.0
+opencv-python==4.8.1.78

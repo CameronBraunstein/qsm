@@ -1,0 +1,13 @@
+
+{
+    "downsample_factors" :               [     4,     2,     1],
+    "candidate_counts" :                 [     6,     4,     4],
+    "median_filter_flags" :              [     1,     1,     1],
+    "median_filter_ranges":              [     7,     7,     7],
+    "bilateral_filter_flags" :           [     0,     0,     1],
+    "edge_thresholds" :                  [  0.15,  0.15,  0.3],
+    "regularization_slopes" :            [0.0005,0.00030,0.00050],
+    "regularization_truncation_max" :    [0.0015,0.0015, 300],
+    "regularization_edge_reduction" :    [   0.1,   0.1,   0.1],
+    "bundle_heights":                    [     1,     1,     1]
+}
