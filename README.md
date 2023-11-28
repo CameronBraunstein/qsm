@@ -1,4 +1,4 @@
-# [Quantum-Hybrid Stereo Matching with Nonlinear Regularization and Spatial Pyramids](TODO: Link to paper once published)
+# [Quantum-Hybrid Stereo Matching With Nonlinear Regularization and Spatial Pyramids](TODO: Link to paper once published)
 [Cameron Braunstein](https://cvmp.cs.uni-saarland.de/people/#cameron-braunstein), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/) [Eddy Ilg](https://cvmp.cs.uni-saarland.de/people/#eddy-ilg)
 
 
