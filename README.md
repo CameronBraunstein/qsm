@@ -1,5 +1,5 @@
 # Quantum-Hybrid Stereo Matching with Nonlinear Regularization and Spatial Pyramids
-[Cameron Braunstein](https://cameronbraunstein.github.io/), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/) [Eddy Ilg](https://cvmp.cs.uni-saarland.de/people/#eddy-ilg)
+[Cameron Braunstein](https://cameronbraunstein.github.io/), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/), [Eddy Ilg](https://cvmp.cs.uni-saarland.de/people/#eddy-ilg)
 
 This project is the source code used for [Quantum-Hybrid Stereo Matching with Nonlinear Regularization and Spatial Pyramids](https://4dqv.mpi-inf.mpg.de/QHSM/). This work was accepted to [3DV 2024](https://3dvconf.github.io/2024/).
 
