@@ -51,6 +51,7 @@ The output (before filtering) should look like this:
 
 
 For the first frame of the Market 2 scene of Sintel, run
+```
 $ ./example_sintel.sh
 ```
 
@@ -64,7 +65,7 @@ If you find this code useful for your research, please cite our paper:
       author={Cameron Braunstein and Eddy Ilg and Vladislav Golyanik},
       year={2024}
 }
-`````` 
+``` 
 
 ## License
 
