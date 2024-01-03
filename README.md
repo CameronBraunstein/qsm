@@ -21,7 +21,7 @@ In order to have access to DWave's remote services, you must have an account wit
 
 ## Gurobi
 
-There are additional steps needed to set up Gurobi for optimizations. [here](https://docs.ocean.dwavesys.com/en/stable/overview/install.html#set-up-your-environment)
+There are additional steps needed to set up Gurobi for optimizations. Start with the guide [here](https://www.gurobi.com/resources/starting-with-gurobi/) for set up instructions.
 
 
 ## iViz 
@@ -30,10 +30,11 @@ Optionally, one can also install [iViz](https://github.com/eddy-ilg/iviz) to vie
 
 ## Data
 
-The Middlebury data which we work with in our paper is all available here: https://vision.middlebury.edu/stereo/data/scenes2001/ . Due to the small size of this data, we have included it in the repository.
+The Middlebury data which we work with in our paper is all available [here](https://vision.middlebury.edu/stereo/data/scenes2001/). Due to the small size of this data, we have included it in the repository.
 
 
 If you wish to work with the Sintel stereo data, download the .zip from [here](http://sintel.is.tue.mpg.de/stereo), and place it into the /datasets directory. Next, unzip the file. In Linux, this can be done using the unzip command, for example
+
 ```
 $ unzip datasets/MPI-Sintel-stereo-training-20150305.zip
 ```
@@ -41,7 +42,8 @@ $ unzip datasets/MPI-Sintel-stereo-training-20150305.zip
 
 ## To Run:
 
-To see the gurobi optimizer run on the Tsukuba pair from the Middlebury dataset, run 
+To see the gurobi optimizer run on the Tsukuba pair from the Middlebury dataset, run
+
 ```
 $ ./example_tsukuba.sh
 ```
@@ -51,8 +53,8 @@ The output (before filtering) should look like this:
 <img src="readme_media/tsukuba.png" alt="Market2" /></br>
 </p>
 
-
 For the first frame of the Market 2 scene of Sintel, run
+
 ```
 $ ./example_sintel.sh
 ```
@@ -72,6 +74,7 @@ One can see the result of running this estimation process across an entire Sinte
 ## Citation
 
 If you find this code useful for your research, please cite our paper:
+
 ```
 @inproceedings{braunstein2023quantumhybrid,
       title={Quantum-Hybrid Stereo Matching With Nonlinear Regularization and Spatial Pyramids}, 
