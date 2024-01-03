@@ -47,7 +47,7 @@ $ ./example_tsukuba.sh
 ```
 The output (before filtering) should look like this:
 
-![](tsukuba.png)
+![](readme_media/tsukuba.png)
 
 
 For the first frame of the Market 2 scene of Sintel, run
@@ -55,10 +55,14 @@ For the first frame of the Market 2 scene of Sintel, run
 $ ./example_sintel.sh
 ```
 
+Here are the results of this estimation visualized with matplotlib:
+
+![](readme_media/market_2.png)
+
 One can see the result of running this estimation process across an entire Sintel scene below:
 
 <p align="center">
-<img src="alley_2.gif" alt="Alley2" /></br>
+<img src="readme_media/alley_2.gif" alt="Alley2" /></br>
 </p>
 
 ## Citation
