@@ -1,5 +1,5 @@
 # Quantum-Hybrid Stereo Matching with Nonlinear Regularization and Spatial Pyramids
-[Cameron Braunstein](https://cvmp.cs.uni-saarland.de/people/#cameron-braunstein), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/) [Eddy Ilg](https://cvmp.cs.uni-saarland.de/people/#eddy-ilg)
+[Cameron Braunstein](https://cameronbraunstein.github.io/), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/) [Eddy Ilg](https://cvmp.cs.uni-saarland.de/people/#eddy-ilg)
 
 This project is the source code used for [Quantum-Hybrid Stereo Matching with Nonlinear Regularization and Spatial Pyramids](https://4dqv.mpi-inf.mpg.de/QHSM/). This work was accepted to [3DV 2024](https://3dvconf.github.io/2024/).
 
@@ -54,23 +54,17 @@ For the first frame of the Market 2 scene of Sintel, run
 $ ./example_sintel.sh
 ```
 
-One can see the result of running this estimation process across an entire Sintel scene below:
-
-
-
-![Alley 2](alley_2.gif)
-
-![Alley 2](https://github.com/CameronBraunstein/qsm/blob/main/alley_2.gif)
-
-Outputs from all resolution levels will be saved in the /output_data directory.
-
 ## Citation
 
-Please cite our work if you use the code.
-
+If you find this code useful for your research, please cite our paper:
 ```
-TODO: Put in Bibtex Citation
-```
+@inproceedings{braunstein2023quantumhybrid,
+      title={Quantum-Hybrid Stereo Matching With Nonlinear Regularization and Spatial Pyramids}, 
+      booktitle={International Conference on 3D Vision (3DV)}, 
+      author={Cameron Braunstein and Eddy Ilg and Vladislav Golyanik},
+      year={2024}
+}
+`````` 
 
 ## License
 
