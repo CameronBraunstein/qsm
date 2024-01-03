@@ -55,6 +55,12 @@ For the first frame of the Market 2 scene of Sintel, run
 $ ./example_sintel.sh
 ```
 
+One can see the result of running this estimation process across an entire Sintel scene below:
+
+<p align="center">
+<img src="alley_2.gif" alt="Alley2" /></br>
+</p>
+
 ## Citation
 
 If you find this code useful for your research, please cite our paper:
